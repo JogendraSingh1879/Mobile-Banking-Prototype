@@ -1,3 +1,7 @@
+# Check out the streamlit links for web application- 
+
+# https://mobile-banking-prototype-j2dlbjqo8ybrcmx6satw6p.streamlit.app/
+
 # Mobile Banking: Account Payee Addition and Payment System
 This project showcases a Mobile Banking Application prototype built using AI and modern web technologies. The system enables users to add account payees, generate QR codes for due payments, and simulate transaction processing with fraud detection capabilities.
 
